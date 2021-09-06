@@ -1,2 +1,3 @@
 # DCHAT
-Simple Chatting Application
+a simple chatting application.
+using express & socket io
